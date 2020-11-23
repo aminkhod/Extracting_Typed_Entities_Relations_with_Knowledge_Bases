@@ -1,0 +1,8 @@
+*.hdf5
+*.pyc
+*.npz
+*.so
+*.json
+*.pdf
+*.png
+prof*
