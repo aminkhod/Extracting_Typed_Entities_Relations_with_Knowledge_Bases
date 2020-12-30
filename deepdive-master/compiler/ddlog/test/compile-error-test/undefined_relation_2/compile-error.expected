@@ -1,5 +1,0 @@
-[error] relation "Q" is not defined
-@weight(1)
-Q(x) :-
-    a(x).
-

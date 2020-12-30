@@ -1,2 +1,0 @@
-SELECT COUNT(R0.relation_id) AS "COUNT(r)"
-FROM has_spouse R0

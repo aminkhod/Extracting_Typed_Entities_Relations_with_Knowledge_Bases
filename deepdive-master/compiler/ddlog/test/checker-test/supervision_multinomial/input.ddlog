@@ -1,4 +1,0 @@
-Q?(@key x int, category int).
-R(x int, label int).
-
-Q(x, label) = TRUE :- R(x, label).

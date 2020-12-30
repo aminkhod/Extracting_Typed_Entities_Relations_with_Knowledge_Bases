@@ -1,6 +1,0 @@
-[error] variable relation contains reserved column "dd_label" 
-c?(dd_label int,
-   s text,
-   n int,
-   t text).
-
